@@ -1,0 +1,16 @@
+CGIP Micro Project
+------------------
+
+Submitted by:
+Group 2
+-------
+Adithya RK (B22CS1105)
+Ananya DR (B22CS1111)
+Roslina Manue (B22CS1147)
+Sanal Sajan E (B22CS1150)
+
+Noise Removal Tool
+------------------
+
+Follow the link to find the project in google colab:
+https://colab.research.google.com/drive/1cGB7QowY1BUKj8qgUUkc7nzC6EWKr_lb?usp=sharing
